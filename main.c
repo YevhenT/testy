@@ -1,4 +1,4 @@
 void main (int argc, char * argv[]){
-	printf("Hello");
+	printf("Hello, world");
 }
 
